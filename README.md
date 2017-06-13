@@ -5,3 +5,5 @@ https://github.com/Maartenvanunnik/assignments/blob/master/Example%20package%20d
 https://github.com/Maartenvanunnik/assignments/blob/master/DataMoloch.csv
 
 [python exam](https://github.com/Maartenvanunnik/assignments/blob/master/python%20exam.ipynb)
+
+[R exam](https://github.com/Maartenvanunnik/assignments/blob/master/R-Exam.ipynb)
